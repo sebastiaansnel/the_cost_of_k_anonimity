@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+authors:
+- family-names: "Snel"
+  given-names: "Sebastiaan"
+title: "The cost of k-anonymity"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2022-06-30
+url: "https://github.com/sebastiaansnel/the_cost_of_k_anonimity"
